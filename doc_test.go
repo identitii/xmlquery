@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/antchfx/xmlquery"
 	"github.com/antchfx/xpath"
+	"github.com/identitii/xmlquery"
 )
 
 func Example() {
